@@ -1,10 +1,10 @@
 
 // Write your code here
 
-const var1 = 2;
-const var2 = 31;
+const num1 = 2;
+const num2 = 31;
 
-const multiply = var1 * var2;
+const multiply = num1 * num2;
 
 var random = Math.ceil(Math.random() * 10 + 1);
 var mod = 9 % 5;
