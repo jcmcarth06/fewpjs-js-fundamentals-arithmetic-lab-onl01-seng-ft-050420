@@ -1,4 +1,7 @@
 
 // Write your code here
 
-(31 * 2)
+const var1 = 2
+const var2 = 31
+
+const multiply = var1 * var2
